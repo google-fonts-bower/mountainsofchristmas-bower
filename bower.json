@@ -1,0 +1,17 @@
+{
+    "name": "mountainsofchristmas-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Tart Workshop"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mountainsofchristmas-bower.git"
+    },
+    "description": "Mountains of Christmas font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
